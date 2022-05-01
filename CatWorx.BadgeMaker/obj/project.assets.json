@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Desktop\\githubrepo\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Desktop\\githubrepo\\C-Learning-Pt1\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
       "projectName": "CatWorx.BadgeMaker",
-      "projectPath": "C:\\Users\\chris\\Desktop\\githubrepo\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+      "projectPath": "C:\\Users\\chris\\Desktop\\githubrepo\\C-Learning-Pt1\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Desktop\\githubrepo\\CatWorx.BadgeMaker\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Desktop\\githubrepo\\C-Learning-Pt1\\CatWorx.BadgeMaker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config"
