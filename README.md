@@ -1,4 +1,4 @@
-# C Sharp Learning Pt 1
+# C# Fundamentals
 
   ![badge](https://img.shields.io/badge/license-MIT-blue)
 
